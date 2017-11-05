@@ -35,7 +35,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/)
 
 ## License
 
-    Copyright  [Brandon Innis]
+    Copyright [2017] [Brandon Innis]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
